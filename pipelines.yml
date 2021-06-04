@@ -4,7 +4,7 @@ resources:
     configuration:
       gitProvider: my_github
       # path: jfrog/jfrog-pipelines-simple-example
-      path: luislain/project-examples/tree/master/jfrog-quickstart-examples
+      path: luislain/project-examples
       branches:
         include: master
   - name: myBuildInfo
